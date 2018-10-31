@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Name: MyString
+  Spell_type: MyString
+  Creature_Type: MyString
+  Generic_Mana: 1
+  Green_Mana: 1
+  Blue_Mana: 
+  Red_Mana: 1
+  Black_Mana: 1
+
+two:
+  Name: MyString
+  Spell_type: MyString
+  Creature_Type: MyString
+  Generic_Mana: 1
+  Green_Mana: 1
+  Blue_Mana: 
+  Red_Mana: 1
+  Black_Mana: 1
